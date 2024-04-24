@@ -1,5 +1,5 @@
 lw   cf   rw
     cam
-cm     6
+8     6
 lb cb cb rb
     gk
