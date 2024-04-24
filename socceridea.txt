@@ -2,3 +2,4 @@
     cam
 cm     6
 lb cb cb rb
+    gk
