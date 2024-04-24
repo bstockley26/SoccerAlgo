@@ -1,5 +1,5 @@
 7   9   11
-    cam
+    10
 cm     6
 lb cb cb rb
     gk
