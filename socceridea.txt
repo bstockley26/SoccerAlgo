@@ -1,3 +1,4 @@
 lw   cf   rw
     cam
 cm     cdm
+lb cb cb rb
