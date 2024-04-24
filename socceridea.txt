@@ -1,0 +1,3 @@
+lw   cf   rw
+    cam
+cm     cdm
